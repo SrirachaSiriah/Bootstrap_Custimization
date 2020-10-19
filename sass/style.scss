@@ -1,0 +1,15 @@
+//Colours
+
+$blue: #76D7C4; //Primary Colour
+$red: #F3566B;  //Danger Colour
+$gray-100: #F5CBA7;  //Light Colour
+$gray-600: #BEF356; //Secondary Colour
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+
+//Fonts
+$headings-font-family: 'Poppins', sans-serif; //Poppins Font Reg 400
+$headings-font-weight: 700;
+
+@import "../bootstrap-4.5.3/scss/bootstrap.scss";
